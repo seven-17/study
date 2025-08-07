@@ -58,9 +58,23 @@
 
 ![image-20250806213105022](./Software_Architect.assets/image-20250806213105022.png)
 
+# 设计模式
 
+1、设计模式分类
 
+2、设计模式应用场景
 
+3、设计模式的图形
+
+## 创建型设计模式
+
+如何创造对象
+
+<img src="./Software_Architect.assets/image-20250807234735002.png" alt="image-20250807234735002" style="zoom:80%;" />
+
+## 结构性设计模式
+
+<img src="./Software_Architect.assets/image-20250807234825294.png" alt="image-20250807234825294" style="zoom:80%;" />
 
 
 
