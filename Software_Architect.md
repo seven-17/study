@@ -1,85 +1,3 @@
-# 面向对象开发
-
-## 面向对象需求建模
-
-<img src="./Software_Architect.assets/image-20250804220015240.png" alt="image-20250804220015240" style="zoom: 40%;" />
-
-<img src="./Software_Architect.assets/image-20250804220509273.png" alt="image-20250804220509273" style="zoom:40%;" />
-
-## 面向对象设计原则
-
-<img src="./Software_Architect.assets/image-20250804220702359.png" alt="image-20250804220702359" style="zoom:40%;" />
-
-## 面向对象测试
-
-<img src="./Software_Architect.assets/image-20250804221637314.png" alt="image-20250804221637314" style="zoom:40%;" />
-
-# 统一建模语言UML
-
-![image-20250806195521623](./Software_Architect.assets/image-20250806195521623.png)
-
-## 事物
-
-![image-20250806192307166](./Software_Architect.assets/image-20250806192307166.png)
-
-## 关系*
-
-![image-20250806193541126](./Software_Architect.assets/image-20250806193541126.png)
-
-![image-20250806194044953](./Software_Architect.assets/image-20250806194044953.png)
-
-### 用例图
-
-![image-20250806203322320](./Software_Architect.assets/image-20250806203322320.png)
-
-### 序列图
-
-![image-20250806204253332](./Software_Architect.assets/image-20250806204253332.png)
-
-### 通信图
-
-![image-20250806204714311](./Software_Architect.assets/image-20250806204714311.png)
-
-### 状态图
-
-![image-20250806205334465](./Software_Architect.assets/image-20250806205334465.png)
-
-### 活动图
-
-![image-20250806205955145](./Software_Architect.assets/image-20250806205955145.png)
-
-### 构件图
-
-一个构建可能由多个类组成。
-
-![image-20250806212331696](./Software_Architect.assets/image-20250806212331696.png)
-
-## UML视图
-
-![image-20250806213105022](./Software_Architect.assets/image-20250806213105022.png)
-
-# 设计模式
-
-1、设计模式分类
-
-2、设计模式应用场景
-
-3、设计模式的图形
-
-## 创建型设计模式
-
-如何创造对象
-
-<img src="./Software_Architect.assets/image-20250807234735002.png" alt="image-20250807234735002" style="zoom:80%;" />
-
-## 结构性设计模式
-
-<img src="./Software_Architect.assets/image-20250807234825294.png" alt="image-20250807234825294" style="zoom:80%;" />
-
-
-
-
-
 # 关系数据库
 
 ## 键/候选键
@@ -167,6 +85,122 @@
 #### arp命令
 
 <img src="./Software_Architect.assets/image-20250806155431504.png" alt="image-20250806155431504" style="zoom: 80%;" />
+
+
+
+
+
+
+
+
+
+# 面向对象开发
+
+## 面向对象需求建模
+
+<img src="./Software_Architect.assets/image-20250804220015240.png" alt="image-20250804220015240" style="zoom: 40%;" />
+
+<img src="./Software_Architect.assets/image-20250804220509273.png" alt="image-20250804220509273" style="zoom:40%;" />
+
+## 面向对象设计原则
+
+<img src="./Software_Architect.assets/image-20250804220702359.png" alt="image-20250804220702359" style="zoom:40%;" />
+
+## 面向对象测试
+
+<img src="./Software_Architect.assets/image-20250804221637314.png" alt="image-20250804221637314" style="zoom:40%;" />
+
+# 统一建模语言UML
+
+![image-20250806195521623](./Software_Architect.assets/image-20250806195521623.png)
+
+## 事物
+
+![image-20250806192307166](./Software_Architect.assets/image-20250806192307166.png)
+
+## 关系*
+
+![image-20250806193541126](./Software_Architect.assets/image-20250806193541126.png)
+
+![image-20250806194044953](./Software_Architect.assets/image-20250806194044953.png)
+
+### 用例图
+
+![image-20250806203322320](./Software_Architect.assets/image-20250806203322320.png)
+
+### 序列图
+
+![image-20250806204253332](./Software_Architect.assets/image-20250806204253332.png)
+
+### 通信图
+
+![image-20250806204714311](./Software_Architect.assets/image-20250806204714311.png)
+
+### 状态图
+
+![image-20250806205334465](./Software_Architect.assets/image-20250806205334465.png)
+
+### 活动图
+
+![image-20250806205955145](./Software_Architect.assets/image-20250806205955145.png)
+
+### 构件图
+
+一个构建可能由多个类组成。
+
+![image-20250806212331696](./Software_Architect.assets/image-20250806212331696.png)
+
+## UML视图
+
+![image-20250806213105022](./Software_Architect.assets/image-20250806213105022.png)
+
+# 设计模式
+
+1、设计模式分类
+
+2、设计模式应用场景
+
+3、设计模式的图形
+
+## 创建型设计模式
+
+如何创造对象
+
+<img src="./Software_Architect.assets/image-20250807234735002.png" alt="image-20250807234735002" style="zoom:80%;" />
+
+## 结构型设计模式
+
+描述对象和类之间的组织关系
+
+<img src="./Software_Architect.assets/image-20250807234825294.png" alt="image-20250807234825294" style="zoom:80%;" />
+
+## 行为型设计模式
+
+反映类或对象的行为
+
+<img src="./Software_Architect.assets/image-20250808215621931.png" alt="image-20250808215621931" style="zoom:80%;" />
+
+<img src="./Software_Architect.assets/image-20250808221728609.png" alt="image-20250808221728609" style="zoom:80%;" />
+
+# 项目管理-进度管理
+
+<img src="./Software_Architect.assets/image-20250808232554363.png" alt="image-20250808232554363" style="zoom:80%;" />
+
+<img src="./Software_Architect.assets/image-20250809130732323.png" alt="image-20250809130732323" style="zoom:80%;" />
+
+<img src="./Software_Architect.assets/image-20250811220247023.png" alt="image-20250811220247023" style="zoom:80%;" />
+
+<img src="./Software_Architect.assets/image-20250811221323924.png" alt="image-20250811221323924" style="zoom:80%;" />
+
+<img src="./Software_Architect.assets/image-20250811223435633.png" alt="image-20250811223435633" style="zoom:80%;" />
+
+<img src="./Software_Architect.assets/image-20250811224055210.png" alt="image-20250811224055210" style="zoom:80%;" />
+
+# 软件架构*
+
+
+
+
 
 
 
