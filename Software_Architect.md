@@ -154,7 +154,7 @@
 
 ![image-20250806213105022](./Software_Architect.assets/image-20250806213105022.png)
 
-# 设计模式
+# 设计模式*
 
 1、设计模式分类
 
@@ -197,6 +197,44 @@
 <img src="./Software_Architect.assets/image-20250811224055210.png" alt="image-20250811224055210" style="zoom:80%;" />
 
 # 软件架构*
+
+## 软件架构概述
+
+<img src="./Software_Architect.assets/image-20250812230619956.png" alt="image-20250812230619956" style="zoom:80%;" />
+
+<img src="./Software_Architect.assets/image-20250812231029772.png" alt="image-20250812231029772" style="zoom:80%;" />
+
+## 软件架构设计与生命周期
+
+<img src="./Software_Architect.assets/image-20250812232135633.png" alt="image-20250812232135633" style="zoom:80%;" />
+
+<img src="./Software_Architect.assets/image-20250812232210435.png" alt="image-20250812232210435" style="zoom:80%;" />
+
+## 构件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
