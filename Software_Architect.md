@@ -204,41 +204,103 @@
 
 <img src="./Software_Architect.assets/image-20250812231029772.png" alt="image-20250812231029772" style="zoom:80%;" />
 
-## 软件架构设计与生命周期
+### 软件架构设计与生命周期
 
 <img src="./Software_Architect.assets/image-20250812232135633.png" alt="image-20250812232135633" style="zoom:80%;" />
 
 <img src="./Software_Architect.assets/image-20250812232210435.png" alt="image-20250812232210435" style="zoom:80%;" />
 
-## 构件
+### 构件技术
 
+<img src="./Software_Architect.assets/image-20250813224044089.png" alt="image-20250813224044089" style="zoom: 50%;" />
 
+<img src="./Software_Architect.assets/image-20250813225410862.png" alt="image-20250813225410862" style="zoom: 50%;" />
 
+<img src="./Software_Architect.assets/image-20250813225759621.png" alt="image-20250813225759621" style="zoom:67%;" />
 
+<img src="./Software_Architect.assets/image-20250813232459700.png" alt="image-20250813232459700" style="zoom:50%;" />
 
+## 软件架构风格
 
+<img src="./Software_Architect.assets/image-20250814214256682.png" alt="image-20250814214256682" style="zoom:50%;" />
 
+<img src="./Software_Architect.assets/image-20250814214940049.png" alt="image-20250814214940049" style="zoom:50%;" />
 
+### 数据流风格
 
+<img src="./Software_Architect.assets/image-20250814215028021.png" alt="image-20250814215028021" style="zoom:50%;" />
 
+### 调用/返回风格
 
+<img src="./Software_Architect.assets/image-20250814222417246.png" alt="image-20250814222417246" style="zoom:50%;" />
 
+### 独立构件风格
 
+<img src="./Software_Architect.assets/image-20250814222925214.png" alt="image-20250814222925214" style="zoom:50%;" />
 
+### 虚拟机风格
 
+<img src="./Software_Architect.assets/image-20250814223257361.png" alt="image-20250814223257361" style="zoom:50%;" />
 
+### 仓库（数据共享）风格
 
+<img src="./Software_Architect.assets/image-20250814224311992.png" alt="image-20250814224311992" style="zoom:50%;" />
 
+### 闭环控制
 
+<img src="./Software_Architect.assets/image-20250814224406265.png" alt="image-20250814224406265" style="zoom:50%;" />
 
+### C2风格
 
+<img src="./Software_Architect.assets/image-20250814224937266.png" alt="image-20250814224937266" style="zoom:50%;" />
 
+### 总结
 
+<img src="./Software_Architect.assets/image-20250814225028164.png" alt="image-20250814225028164" style="zoom:67%;" />
 
+## 层次架构风格
 
+### C/S架构
 
+<img src="./Software_Architect.assets/image-20250818215514820.png" alt="image-20250818215514820" style="zoom: 67%;" />
 
+![image-20250818220719420](./Software_Architect.assets/image-20250818220719420.png)
 
+### B/S架构
+
+<img src="./Software_Architect.assets/image-20250818221300412.png" alt="image-20250818221300412" style="zoom:67%;" />
+
+### RIA富互联网应用（小程序）
+
+<img src="./Software_Architect.assets/image-20250818221805826.png" alt="image-20250818221805826" style="zoom:67%;" />
+
+### MVC架构
+
+<img src="./Software_Architect.assets/image-20250818222345989.png" alt="image-20250818222345989" style="zoom:67%;" />
+
+### MVP架构
+
+<img src="./Software_Architect.assets/image-20250818223931024.png" alt="image-20250818223931024" style="zoom:67%;" />
+
+### MVVM
+
+<img src="./Software_Architect.assets/image-20250818224228458.png" alt="image-20250818224228458" style="zoom:67%;" />
+
+## 面向服务的架构风格
+
+<img src="./Software_Architect.assets/image-20250818224310921.png" alt="image-20250818224310921" style="zoom: 50%;" />
+
+<img src="./Software_Architect.assets/image-20250818232736598.png" alt="image-20250818232736598" style="zoom: 50%;" />
+
+<img src="./Software_Architect.assets/image-20250818234102115.png" alt="image-20250818234102115" style="zoom:50%;" />
+
+![image-20250818234341406](./Software_Architect.assets/image-20250818234341406.png)
+
+<img src="./Software_Architect.assets/image-20250818234413343.png" alt="image-20250818234413343" style="zoom:67%;" />
+
+<img src="./Software_Architect.assets/image-20250818235255597.png" alt="image-20250818235255597" style="zoom:67%;" />
+
+## 架构复用
 
 
 
