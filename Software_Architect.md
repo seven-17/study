@@ -300,7 +300,71 @@
 
 <img src="./Software_Architect.assets/image-20250818235255597.png" alt="image-20250818235255597" style="zoom:67%;" />
 
-## 架构复用
+## 软件架构复用
+
+### 概念
+
+![image-20250824213822570](./Software_Architect.assets/image-20250824213822570.png)
+
+### DSSA 特定领域的软件架构
+
+<img src="./Software_Architect.assets/image-20250825210414645.png" alt="image-20250825210414645" style="zoom:67%;" />
+
+<img src="./Software_Architect.assets/image-20250825211331869.png" alt="image-20250825211331869" style="zoom:67%;" />
+
+<img src="./Software_Architect.assets/image-20250825211639345.png" alt="image-20250825211639345" style="zoom:67%;" />
+
+<img src="./Software_Architect.assets/image-20250825212036648.png" alt="image-20250825212036648" style="zoom:67%;" />
+
+<img src="./Software_Architect.assets/image-20250825212523240.png" alt="image-20250825212523240" style="zoom:67%;" />
+
+### ABSD 基于架构的软件开发
+
+![image-20250825213853402](./Software_Architect.assets/image-20250825213853402.png)
+
+<img src="./Software_Architect.assets/image-20250825215405392.png" alt="image-20250825215405392" style="zoom:33%;" />
+
+<img src="./Software_Architect.assets/image-20250825220834596.png" alt="image-20250825220834596" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250825222122021.png" alt="image-20250825222122021" style="zoom:50%;" />
+
+## 质量属性
+
+### 软件系统的质量属性
+
+![image-20250825222438762](./Software_Architect.assets/image-20250825222438762.png)
+
+### 软件架构评估
+
+#### 质量属性
+
+<img src="./Software_Architect.assets/image-20250826211726100.png" alt="image-20250826211726100" style="zoom:40%;" />
+
+<img src="./Software_Architect.assets/image-20250826215901731.png" alt="image-20250826215901731" style="zoom:40%;" />
+
+<img src="./Software_Architect.assets/image-20250826221247512.png" alt="image-20250826221247512" style="zoom:50%;" />
+
+#### 评估
+
+<img src="./Software_Architect.assets/image-20250826221913278.png" alt="image-20250826221913278" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250826222000145.png" alt="image-20250826222000145" style="zoom:50%;" />
+
+#### 基于场景的架构分析方法SAAM
+
+![image-20250826222913960](./Software_Architect.assets/image-20250826222913960.png)
+
+#### 架构权衡分析法ATAM*
+
+![image-20250826224811347](./Software_Architect.assets/image-20250826224811347.png)
+
+<img src="./Software_Architect.assets/image-20250826230726325.png" alt="image-20250826230726325" style="zoom:50%;" />
+
+## 中间件
+
+
+
+
 
 
 
