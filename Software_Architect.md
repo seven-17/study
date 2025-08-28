@@ -362,6 +362,32 @@
 
 ## 中间件
 
+<img src="./Software_Architect.assets/image-20250827205807550.png" alt="image-20250827205807550" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250827210513554.png" alt="image-20250827210513554" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250827210740449.png" alt="image-20250827210740449" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250827212147231.png" alt="image-20250827212147231" style="zoom:50%;" />
+
+# 软件可靠性
+
+<img src="./Software_Architect.assets/image-20250828213902121.png" alt="image-20250828213902121" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250828223240540.png" alt="image-20250828223240540" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250828223709950.png" alt="image-20250828223709950" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250828225232245.png" alt="image-20250828225232245" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250828225448285.png" alt="image-20250828225448285" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250828225744709.png" alt="image-20250828225744709" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250828230156643.png" alt="image-20250828230156643" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250828230905569.png" alt="image-20250828230905569" style="zoom:50%;" />
+
 
 
 
