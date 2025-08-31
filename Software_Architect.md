@@ -128,31 +128,31 @@
 
 ![image-20250806203322320](./Software_Architect.assets/image-20250806203322320.png)
 
-### 序列图
+### 序列图（顺序图、时序图）
 
 ![image-20250806204253332](./Software_Architect.assets/image-20250806204253332.png)
 
-### 通信图
+### 通信图（协作图）
 
-![image-20250806204714311](./Software_Architect.assets/image-20250806204714311.png)
+<img src="./Software_Architect.assets/image-20250806204714311.png" alt="image-20250806204714311" style="zoom: 67%;" />
 
 ### 状态图
 
-![image-20250806205334465](./Software_Architect.assets/image-20250806205334465.png)
+<img src="./Software_Architect.assets/image-20250806205334465.png" alt="image-20250806205334465" style="zoom:67%;" />
 
 ### 活动图
 
-![image-20250806205955145](./Software_Architect.assets/image-20250806205955145.png)
+<img src="./Software_Architect.assets/image-20250806205955145.png" alt="image-20250806205955145" style="zoom: 67%;" />
 
 ### 构件图
 
 一个构建可能由多个类组成。
 
-![image-20250806212331696](./Software_Architect.assets/image-20250806212331696.png)
+<img src="./Software_Architect.assets/image-20250806212331696.png" alt="image-20250806212331696" style="zoom:67%;" />
 
 ## UML视图
 
-![image-20250806213105022](./Software_Architect.assets/image-20250806213105022.png)
+<img src="./Software_Architect.assets/image-20250806213105022.png" alt="image-20250806213105022" style="zoom:50%;" />
 
 # 设计模式*
 
@@ -166,57 +166,57 @@
 
 如何创造对象
 
-<img src="./Software_Architect.assets/image-20250807234735002.png" alt="image-20250807234735002" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250807234735002.png" alt="image-20250807234735002" style="zoom: 50%;" />
 
 ## 结构型设计模式
 
 描述对象和类之间的组织关系
 
-<img src="./Software_Architect.assets/image-20250807234825294.png" alt="image-20250807234825294" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250807234825294.png" alt="image-20250807234825294" style="zoom: 50%;" />
 
 ## 行为型设计模式
 
 反映类或对象的行为
 
-<img src="./Software_Architect.assets/image-20250808215621931.png" alt="image-20250808215621931" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250808215621931.png" alt="image-20250808215621931" style="zoom: 50%;" />
 
-<img src="./Software_Architect.assets/image-20250808221728609.png" alt="image-20250808221728609" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250808221728609.png" alt="image-20250808221728609" style="zoom: 50%;" />
 
 # 项目管理-进度管理
 
-<img src="./Software_Architect.assets/image-20250808232554363.png" alt="image-20250808232554363" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250808232554363.png" alt="image-20250808232554363" style="zoom: 50%;" />
 
-<img src="./Software_Architect.assets/image-20250809130732323.png" alt="image-20250809130732323" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250809130732323.png" alt="image-20250809130732323" style="zoom: 50%;" />
 
-<img src="./Software_Architect.assets/image-20250811220247023.png" alt="image-20250811220247023" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250811220247023.png" alt="image-20250811220247023" style="zoom: 50%;" />
 
-<img src="./Software_Architect.assets/image-20250811221323924.png" alt="image-20250811221323924" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250811221323924.png" alt="image-20250811221323924" style="zoom: 50%;" />
 
-<img src="./Software_Architect.assets/image-20250811223435633.png" alt="image-20250811223435633" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250811223435633.png" alt="image-20250811223435633" style="zoom: 50%;" />
 
-<img src="./Software_Architect.assets/image-20250811224055210.png" alt="image-20250811224055210" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250811224055210.png" alt="image-20250811224055210" style="zoom: 50%;" />
 
 # 软件架构*
 
 ## 软件架构概述
 
-<img src="./Software_Architect.assets/image-20250812230619956.png" alt="image-20250812230619956" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250812230619956.png" alt="image-20250812230619956" style="zoom: 50%;" />
 
-<img src="./Software_Architect.assets/image-20250812231029772.png" alt="image-20250812231029772" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250812231029772.png" alt="image-20250812231029772" style="zoom: 50%;" />
 
 ### 软件架构设计与生命周期
 
-<img src="./Software_Architect.assets/image-20250812232135633.png" alt="image-20250812232135633" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250812232135633.png" alt="image-20250812232135633" style="zoom: 50%;" />
 
-<img src="./Software_Architect.assets/image-20250812232210435.png" alt="image-20250812232210435" style="zoom:80%;" />
+<img src="./Software_Architect.assets/image-20250812232210435.png" alt="image-20250812232210435" style="zoom: 50%;" />
 
 ### 构件技术
 
-<img src="./Software_Architect.assets/image-20250813224044089.png" alt="image-20250813224044089" style="zoom: 50%;" />
+<img src="./Software_Architect.assets/image-20250813224044089.png" alt="image-20250813224044089" style="zoom: 40%;" />
 
-<img src="./Software_Architect.assets/image-20250813225410862.png" alt="image-20250813225410862" style="zoom: 50%;" />
+<img src="./Software_Architect.assets/image-20250813225410862.png" alt="image-20250813225410862" style="zoom: 40%;" />
 
-<img src="./Software_Architect.assets/image-20250813225759621.png" alt="image-20250813225759621" style="zoom:67%;" />
+<img src="./Software_Architect.assets/image-20250813225759621.png" alt="image-20250813225759621" style="zoom: 50%;" />
 
 <img src="./Software_Architect.assets/image-20250813232459700.png" alt="image-20250813232459700" style="zoom:50%;" />
 
@@ -372,9 +372,13 @@
 
 # 软件可靠性
 
+## 软件可靠性概述
+
 <img src="./Software_Architect.assets/image-20250828213902121.png" alt="image-20250828213902121" style="zoom:50%;" />
 
 <img src="./Software_Architect.assets/image-20250828223240540.png" alt="image-20250828223240540" style="zoom:50%;" />
+
+## 提高系统可靠性的技术
 
 <img src="./Software_Architect.assets/image-20250828223709950.png" alt="image-20250828223709950" style="zoom:50%;" />
 
@@ -386,11 +390,63 @@
 
 <img src="./Software_Architect.assets/image-20250828230156643.png" alt="image-20250828230156643" style="zoom:50%;" />
 
+## 负载均衡
+
 <img src="./Software_Architect.assets/image-20250828230905569.png" alt="image-20250828230905569" style="zoom:50%;" />
 
+#  软件架构的演化和维护
 
+<img src="./Software_Architect.assets/image-20250831110705552.png" alt="image-20250831110705552" style="zoom:50%;" />
 
+## 面向对象软件架构演化
 
+<img src="./Software_Architect.assets/image-20250831111516030.png" alt="image-20250831111516030" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250831113605747.png" alt="image-20250831113605747" style="zoom:50%;" />
+
+## 软件架构演化方式的分类
+
+<img src="./Software_Architect.assets/image-20250831113832506.png" alt="image-20250831113832506" style="zoom:50%;" />
+
+### 软件架构静态演化
+
+<img src="./Software_Architect.assets/image-20250831164634161.png" alt="image-20250831164634161" style="zoom:50%;" />
+
+### 软件架构动态演化
+
+<img src="./Software_Architect.assets/image-20250831172554024.png" alt="image-20250831172554024" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250831173508002.png" alt="image-20250831173508002" style="zoom:50%;" />
+
+### 大型网站架构演化
+
+<img src="./Software_Architect.assets/image-20250831175831854.png" alt="image-20250831175831854" style="zoom:40%;" />
+
+<img src="./Software_Architect.assets/image-20250831180315863.png" alt="image-20250831180315863" style="zoom:50%;" />
+
+### 软件架构维护
+
+<img src="./Software_Architect.assets/image-20250831180803538.png" alt="image-20250831180803538" style="zoom:50%;" />
+
+# 未来信息综合技术
+
+## 信息物理系统（物联网）
+
+![image-20250831181346819](./Software_Architect.assets/image-20250831181346819.png)
+
+<img src="./Software_Architect.assets/image-20250831214914361.png" alt="image-20250831214914361" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250831215952573.png" alt="image-20250831215952573" style="zoom:50%;" />
+
+## 人工智能
+
+<img src="./Software_Architect.assets/image-20250831220347909.png" alt="image-20250831220347909" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250831224220373.png" alt="image-20250831224220373" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250831225337351.png" alt="image-20250831225337351" style="zoom:50%;" />
+
+## 机器人
 
 
 
