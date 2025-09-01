@@ -470,7 +470,9 @@
 
 ![image-20250901201117287](Software_Architect.assets/image-20250901201117287.png)
 
+## 大数据
 
+![image-20250901201317671](Software_Architect.assets/image-20250901201317671.png)
 
 
 
