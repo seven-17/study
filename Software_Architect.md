@@ -448,6 +448,30 @@
 
 ## 机器人
 
+![image-20250901191059261](Software_Architect.assets/image-20250901191059261.png)
+
+![image-20250901192341000](Software_Architect.assets/image-20250901192341000.png)
+
+## 边缘计算
+
+![image-20250901192621022](Software_Architect.assets/image-20250901192621022.png)
+
+![image-20250901193258468](Software_Architect.assets/image-20250901193258468.png)
+
+![image-20250901194928367](Software_Architect.assets/image-20250901194928367.png)
+
+## 数字孪生
+
+![image-20250901195833266](Software_Architect.assets/image-20250901195833266.png)
+
+## 云计算
+
+![image-20250901200345636](Software_Architect.assets/image-20250901200345636.png)
+
+![image-20250901201117287](Software_Architect.assets/image-20250901201117287.png)
+
+
+
 
 
 
