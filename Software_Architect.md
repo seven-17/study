@@ -474,6 +474,24 @@
 
 ![image-20250901201317671](Software_Architect.assets/image-20250901201317671.png)
 
+# 知识产权和标准化
+
+## 知识产权定义
+
+<img src="./Software_Architect.assets/image-20250903223029181.png" alt="image-20250903223029181" style="zoom:45%;" />
+
+## 保护期限
+
+<img src="./Software_Architect.assets/image-20250903224004474.png" alt="image-20250903224004474" style="zoom:45%;" />
+
+## 知识产权人的确定
+
+<img src="./Software_Architect.assets/image-20250903225929581.png" alt="image-20250903225929581" style="zoom:50%;" />
+
+
+
+
+
 
 
 
