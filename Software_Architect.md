@@ -1,3 +1,89 @@
+# 计算机硬件
+
+## 计算机硬件组成
+
+<img src="./Software_Architect.assets/image-20250907161932038.png" alt="image-20250907161932038" style="zoom: 60%;" />
+
+## 中央处理单元
+
+<img src="./Software_Architect.assets/image-20250907162354708.png" alt="image-20250907162354708" style="zoom: 60%;" />
+
+<img src="./Software_Architect.assets/image-20250907162647223.png" alt="image-20250907162647223" style="zoom:60%;" />
+
+## 校验码*
+
+<img src="./Software_Architect.assets/image-20250907164353441.png" alt="image-20250907164353441" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/image-20250907170533851.png" alt="image-20250907170533851" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/image-20250907170916094.png" alt="image-20250907170916094" style="zoom:60%;" />
+
+## 指令系统
+
+<img src="./Software_Architect.assets/ca73b1e3-2549-429e-b55b-1803be85008a.png" alt="ca73b1e3-2549-429e-b55b-1803be85008a" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/874cef3b-395f-4232-a3f3-02583c424dd1.png" alt="874cef3b-395f-4232-a3f3-02583c424dd1" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/4de630c3-40c9-433d-8265-91bd6a54d11c.png" alt="4de630c3-40c9-433d-8265-91bd6a54d11c" style="zoom:60%;" />
+
+### 流水线*
+
+![2a6c4b0b-6224-41bc-8eab-433138ed57fa](./Software_Architect.assets/2a6c4b0b-6224-41bc-8eab-433138ed57fa.png)
+
+<img src="./Software_Architect.assets/f4789871-2dd3-4c87-ab7e-8a5e12a8f4a1.png" alt="f4789871-2dd3-4c87-ab7e-8a5e12a8f4a1" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/349f10cf-6a29-46ae-a329-3c35b294f659.png" alt="349f10cf-6a29-46ae-a329-3c35b294f659" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/a27baece-e613-4634-aadc-b971f3027482.png" alt="a27baece-e613-4634-aadc-b971f3027482" style="zoom:60%;" />
+
+## 存储系统
+
+### cache
+
+<img src="./Software_Architect.assets/38564708-9f14-4ec9-9535-2e4839a4e912.png" alt="38564708-9f14-4ec9-9535-2e4839a4e912" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/4d931d41-716c-4764-a904-398f61e2679d.png" alt="4d931d41-716c-4764-a904-398f61e2679d" style="zoom: 60%;" />
+
+<img src="./Software_Architect.assets/5a62ab00-bd24-487e-8b57-6a359f4aa221.png" alt="5a62ab00-bd24-487e-8b57-6a359f4aa221" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250907200913082.png" alt="image-20250907200913082" style="zoom:50%;" />
+
+### 缓存替换算法
+
+<img src="./Software_Architect.assets/image-20250907203417413.png" alt="image-20250907203417413" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250907203533228.png" alt="image-20250907203533228" style="zoom:50%;" />
+
+### 磁盘
+
+<img src="./Software_Architect.assets/image-20250907203936051.png" alt="image-20250907203936051" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/image-20250907204759911.png" alt="image-20250907204759911" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/image-20250907205648072.png" alt="image-20250907205648072" style="zoom:50%;" />
+
+## 输入输出技术
+
+<img src="./Software_Architect.assets/image-20250907205934705.png" alt="image-20250907205934705" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/image-20250907210110449.png" alt="image-20250907210110449" style="zoom:60%;" />
+
+## 总线
+
+<img src="./Software_Architect.assets/image-20250907210332408.png" alt="image-20250907210332408" style="zoom:60%;" />
+
+<img src="./Software_Architect.assets/image-20250907210610277.png" alt="image-20250907210610277" style="zoom:50%;" />
+
+# 操作系统
+
+
+
+
+
+
+
+
+
 # 关系数据库
 
 ## 键/候选键
@@ -494,5 +580,116 @@
 
 <img src="./Software_Architect.assets/image-20250904232815862.png" alt="image-20250904232815862" style="zoom:45%;" />
 
+# 数学算法
+
+## 最小生成树
+
+算法思想：每次找最小的边，不构成环便加入，直到找到n-1个边（n为节点数）。
+
+```java
+// 并查集-查找指定元素所属集合（带路径压缩）
+int uf_find(vector<int> uf_set, int x) {
+    if (uf_set[x] != x) {
+        uf_set[x] = uf_find(uf_set, uf_set[x]);
+    }
+    return uf_set[x];
+}
+
+// 并查集-合并两个集合（将rank值低的合并到rank值高的）
+void uf_union(vector<int>& uf_set, vector<int>& rank, int root1, int root2) {
+    if (rank[root1] > rank[root2]) { // 若root1的rank值高于root2
+        uf_set[root2] = root1; // 将root2合并到root1
+    } else { // 否则（root1的rank值小于或等于root2）
+        uf_set[root1] = root2; // 将root1合并到root2
+        // 若root1的rank值等于root2，会导致合并后的集合rank值加1
+        if (rank[root1] == rank[root2]) {
+            rank[root2] ++;
+        }
+    }
+}
+
+int miniSpanningTree(int n, int m, vector<vector<int>>& cost) {
+    for (int i = 1; i <= n; i++) { // 初始时，每个顶点（村庄）各自属于一个集合
+        uf_set[i] = i;
+        rank[i] = 0;
+    }
+    sort(cost.begin(), cost.end(), cmp); // 将cost数组按照成本价从小到大排序
+    int rst = 0; // 用来累加结果
+    for (int i = 0; i < cost.size(); i ++) { // 遍历cost数组
+        // 查找当前边的两个顶点分别属于哪个集合
+        int root1 = uf_find(uf_set, cost[i][0]);
+        int root2 = uf_find(uf_set, cost[i][1]);
+        if (root1 != root2) { // 若两个顶点属于不同集合
+            rst += cost[i][2];
+            uf_union(uf_set, rank, root1, root2); // 则合并两个集合
+        } // 否则进入下一次循环
+    }
+    return rst;
+}
+```
+
+
+
+<img src="./Software_Architect.assets/image-20250906184317892.png" alt="image-20250906184317892" style="zoom:40%;" />
+
+## 最短路径
+
+算法思想：维护起点A到每个节点的最短距离数组dist[n]，然后for循环，每次通过加入其他点作为中转点，看能否缩短A到其他点的最短距离。
+
+```java
+// 循环找到所有顶点的最短路径
+for (int count = 0; count < V - 1; count++) {
+    int u = minDistance(dist, sptSet);  // 选择距离最小的未访问顶点
+    sptSet[u] = 1;  // 标记为已访问
+
+    // 更新邻接顶点的距离
+    for (int v = 0; v < V; v++) {
+        // 如果邻接顶点未访问过，且起始点到u的最短距离 + u到v的距离 < 起始点到v的距离
+        if (!sptSet[v] && graph[u][v] && dist[u]!= INT_MAX && dist[u] + graph[u][v] < dist[v]) {
+            dist[v] = dist[u] + graph[u][v];
+        }
+    }
+}
+```
+
+<img src="./Software_Architect.assets/image-20250906190702601.png" alt="image-20250906190702601" style="zoom:40%;" />
+
+## 网络与最大流量
+
+最大流量：每条线路的最小运输能力（短板）就是每条线路的最大流量。
+
+算法思路：每次选择线路上的一条边，然后更新该线路的最大运输能力，直至没有线路能从起点到终点。
+
+<img src="./Software_Architect.assets/image-20250906194941597.png" alt="image-20250906194941597" style="zoom:40%;" />
+
+<img src="./Software_Architect.assets/image-20250906195718893.png" alt="image-20250906195718893" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250906195732830.png" alt="image-20250906195732830" style="zoom:40%;" />
+
+## 线性规划
+
+<img src="./Software_Architect.assets/image-20250906205838905.png" alt="image-20250906205838905" style="zoom:40%;" />
+
+<img src="./Software_Architect.assets/image-20250906205903208.png" alt="image-20250906205903208" style="zoom:45%;" />
+
+<img src="./Software_Architect.assets/image-20250906205931925.png" alt="image-20250906205931925" style="zoom:50%;" />
+
+## 动态规划
+
+<img src="./Software_Architect.assets/image-20250906211906129.png" alt="image-20250906211906129" style="zoom:45%;" />
+
+## 伏格尔法
+
+<img src="./Software_Architect.assets/image-20250907003035653.png" alt="image-20250907003035653" style="zoom:50%;" />
+
+## 博弈论
+
+甲乙两人独立思考，按情况分析。
+
+<img src="./Software_Architect.assets/image-20250907003140470.png" alt="image-20250907003140470" style="zoom:50%;" />
+
+## 排队论
+
+<img src="./Software_Architect.assets/image-20250907114702278.png" alt="image-20250907114702278" style="zoom:50%;" />
 
 
