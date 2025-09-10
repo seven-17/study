@@ -54,13 +54,19 @@
 
 <img src="./Software_Architect.assets/image-20250907203533228.png" alt="image-20250907203533228" style="zoom:50%;" />
 
-### 磁盘
+### 磁盘*
 
 <img src="./Software_Architect.assets/image-20250907203936051.png" alt="image-20250907203936051" style="zoom:60%;" />
 
 <img src="./Software_Architect.assets/image-20250907204759911.png" alt="image-20250907204759911" style="zoom:60%;" />
 
 <img src="./Software_Architect.assets/image-20250907205648072.png" alt="image-20250907205648072" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250908223113191.png" alt="image-20250908223113191" style="zoom:50%;" />
+
+==当前柱面为21号，则先找柱面号为23的，柱面号一致则根据扇区号从小到大。==
+
+<img src="./Software_Architect.assets/image-20250908225659143.png" alt="image-20250908225659143" style="zoom:55%;" />
 
 ## 输入输出技术
 
@@ -74,7 +80,37 @@
 
 <img src="./Software_Architect.assets/image-20250907210610277.png" alt="image-20250907210610277" style="zoom:50%;" />
 
+==串行总线适用于长距离传输；并行总线适用于近距离传输。==
+
 # 操作系统
+
+## 操作系统概述
+
+<img src="./Software_Architect.assets/image-20250910222127522.png" alt="image-20250910222127522" style="zoom: 50%;" />
+
+<img src="./Software_Architect.assets/image-20250910222341822.png" alt="image-20250910222341822" style="zoom: 50%;" />
+
+<img src="./Software_Architect.assets/image-20250910224322381.png" alt="image-20250910224322381" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250910224606620.png" alt="image-20250910224606620" style="zoom:50%;" />
+
+### 进程的组成和状态
+
+<img src="./Software_Architect.assets/image-20250910225049260.png" alt="image-20250910225049260" style="zoom:50%;" />
+
+### 前趋图
+
+<img src="./Software_Architect.assets/image-20250910225455838.png" alt="image-20250910225455838" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250910230200835.png" alt="image-20250910230200835" style="zoom:50%;" />
+
+### 进程同步与互斥
+
+<img src="./Software_Architect.assets/image-20250910230643555.png" alt="image-20250910230643555" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250910231935535.png" alt="image-20250910231935535" style="zoom:50%;" />
+
+<img src="./Software_Architect.assets/image-20250910232119131.png" alt="image-20250910232119131" style="zoom:50%;" />
 
 
 
@@ -691,5 +727,4 @@ for (int count = 0; count < V - 1; count++) {
 ## 排队论
 
 <img src="./Software_Architect.assets/image-20250907114702278.png" alt="image-20250907114702278" style="zoom:50%;" />
-
 
